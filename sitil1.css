@@ -49,3 +49,14 @@ padding-right:100px;
 	height:75px;
 	margin-top:30px;
 }
+
+.ana-sayfa-icerik {
+	display:flex;
+	flex-direction:row;
+	justify-content : space-around;
+	gap:77px;
+	margin-top:33px;
+	border-bottom:solid 1px #555;
+	padding-bottom:33px;
+}
+
